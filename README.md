@@ -10,15 +10,4 @@ But yeah, in a world full of busy schedule we are generally unable to spend some
 # Approach to SmarTee(solution to the above problem)
 With the vision of overcoming this problem, the idea of SmarTee has been proposed, a smart t-shirt with some built in health sensors that could be able to track our elderly parents health. We can get the status of their health in realtime on the SmarTee’s mobile application. Distance wont be a factor anymore to get to know about your parents health
 
-# Capabilities
 
-SmarTee will be acquired with most of the advanced health sensors and with the advancement of the  project from its initial prototype stage to the final stage, it will keep on updating with the addition of more new features.
-The future model has been thought to be designed with capabilities like –
-Heart Beat rate Monitoring ( would be able to tell the fluctutaions for determing any issues in the body)
-Capable of acquiring ECG signals 
- -
-Body Temperature monitoring
-Stress Monitoring
-Breathing Rate
-Activity Level
-further more additions to be made…
