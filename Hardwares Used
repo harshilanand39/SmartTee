@@ -1,0 +1,30 @@
+/*List of hardwares we are going to use in it
+ Microcontroller
+ Sensors
+ Power source
+ materials used */
+ 
+## For the First Prototype - 
+
+# Electronics
+
+Board - Node MCU esp32 version
+ecg module - ad8232 single channel 1 lead ecg version
+Pulse sensor - from pulsesensor.com
+Temperature sensor - DS18B20 with probe
+lipo charger circuit
+
+# Medical
+Ecg electrodes - Self made electrodes from a conductive silver fabric coated with polyamide material
+needs to be dipped into pedot:pss solution
+
+# Tshirt's Fabric and details
+.
+.
+
+# Power source 
+(yet to be decided)
+Lithium Polymer battery - around 500mAh
+
+
+
