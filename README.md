@@ -14,10 +14,10 @@ With the vision of overcoming this problem, the idea of SmarTee has been propose
 
 SmarTee will be acquired with most of the advanced health sensors and with the advancement of the  project from its initial prototype stage to the final stage, it will keep on updating with the addition of more new features.
 The future model has been thought to be designed with capabilities like –
-Heart Beat rate Monitoring ( would be able to tell the fluctutaions for determing any issues in the body)
-Capable of acquiring ECG signals
-Body Temperature monitoring
-Stress Monitoring
-Breathing Rate
-Activity Level
+Heart Beat rate Monitoring ( would be able to tell the fluctutaions for determing any issues in the body),
+Capable of acquiring ECG signals,
+Body Temperature monitoring,
+Stress Monitoring,
+Breathing Rate,
+Activity Level,
 further more additions to be made…
